@@ -1,3 +1,5 @@
+2024-11-16
+
 # GoPro WiFI Enabler
 *Enabler to work with the GoPro API*
 
